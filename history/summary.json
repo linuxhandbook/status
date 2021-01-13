@@ -4,19 +4,19 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "linux-handbook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1160,
-    "timeWeek": 1189,
-    "timeMonth": 1189,
-    "timeYear": 1189,
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
+    "time": 1291,
+    "timeDay": 1379,
+    "timeWeek": 1291,
+    "timeMonth": 1291,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 56
     }
   },
   {
