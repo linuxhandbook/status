@@ -4,9 +4,9 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1189,
     "timeMonth": 1189,
     "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-13": 0
+    }
   },
   {
     "name": "It's FOSS",
