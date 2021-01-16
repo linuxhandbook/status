@@ -10,6 +10,10 @@ sites:
     url: https://itsfoss.com
   - name: "It's FOSS News"
     url: https://news.itsfoss.com
+  - name: "It's FOSS Community"
+    url: https://itsfoss.community
+  - name: "High on Cloud"
+    url: https://highoncloud.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
