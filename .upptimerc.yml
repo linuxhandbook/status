@@ -6,10 +6,13 @@ repo: status # Your GitHub repository name
 sites:
   - name: Linux Handbook
     url: https://linuxhandbook.com
+    icon: https://linuxhandbook.com/favicon.ico
   - name: "It's FOSS"
     url: https://itsfoss.com
+    icon: https://itsfoss.com/favicon.ico
   - name: "It's FOSS News"
     url: https://news.itsfoss.com
+    icon: https://news.itsfoss.com/favicon.ico
   - name: "It's FOSS Community"
     url: https://itsfoss.community
   - name: "High on Cloud"
