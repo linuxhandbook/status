@@ -4,18 +4,19 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://linuxhandbook.com/favicon.ico",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
-    "time": 1413,
-    "timeDay": 1867,
-    "timeWeek": 1499,
-    "timeMonth": 1430,
-    "timeYear": 1413,
+    "time": 1398,
+    "timeDay": 1315,
+    "timeWeek": 1425,
+    "timeMonth": 1415,
+    "timeYear": 1398,
     "dailyMinutesDown": {
+      "2021-02-16": 0,
       "2021-01-30": 21,
       "2021-01-13": 56
     }
@@ -34,7 +35,7 @@
     "time": 312,
     "timeDay": 210,
     "timeWeek": 175,
-    "timeMonth": 301,
+    "timeMonth": 299,
     "timeYear": 312,
     "dailyMinutesDown": {}
   },
@@ -52,7 +53,7 @@
     "time": 346,
     "timeDay": 514,
     "timeWeek": 312,
-    "timeMonth": 329,
+    "timeMonth": 324,
     "timeYear": 346,
     "dailyMinutesDown": {}
   },
@@ -70,7 +71,7 @@
     "time": 718,
     "timeDay": 720,
     "timeWeek": 704,
-    "timeMonth": 718,
+    "timeMonth": 717,
     "timeYear": 718,
     "dailyMinutesDown": {}
   },
@@ -88,7 +89,7 @@
     "time": 654,
     "timeDay": 697,
     "timeWeek": 655,
-    "timeMonth": 654,
+    "timeMonth": 652,
     "timeYear": 654,
     "dailyMinutesDown": {}
   }
