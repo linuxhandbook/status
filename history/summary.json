@@ -63,9 +63,9 @@
     "url": "https://itsfoss.community",
     "icon": "https://favicons.githubusercontent.com/itsfoss.community",
     "slug": "it-s-foss-community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 669,
     "timeMonth": 703,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-18": 0
+    }
   },
   {
     "name": "High on Cloud",
