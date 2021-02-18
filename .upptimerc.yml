@@ -17,8 +17,6 @@ sites:
     url: https://itsfoss.community
   - name: "High on Cloud"
     url: https://highoncloud.com
-  - name: "Email Test"
-    url: https://openexperiment.in
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
