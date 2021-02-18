@@ -4,9 +4,9 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://linuxhandbook.com/favicon.ico",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.75%",
@@ -16,6 +16,7 @@
     "timeMonth": 1419,
     "timeYear": 1404,
     "dailyMinutesDown": {
+      "2021-02-18": 0,
       "2021-02-17": 42,
       "2021-02-16": 19,
       "2021-01-30": 21,
@@ -64,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/itsfoss.community",
     "slug": "it-s-foss-community",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.61%",
+    "uptimeDay": "87.18%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.61%",
     "time": 708,
     "timeDay": 641,
     "timeWeek": 669,
     "timeMonth": 703,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2021-02-18": 0
+      "2021-02-18": 185
     }
   },
   {
